@@ -2,11 +2,11 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[Network Diagram](Cybersecurity/Images/Ravdeep Singh Cloud Security (1).drawio "Network Diagram drawio")
+[Network Diagram](https://github.com/ravdeepsingh200/Cybersecurity/blob/main/Images/Ravdeep%20Singh%20Cloud%20Security%20(1).drawio)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Network Diagram file may be used to install only certain pieces of it, such as Filebeat.
 
-  - [Filebeat playbook yml](Ansible\Filebeat_playbook.yml "Filebeat playbook yml")
+  - [Filebeat playbook yml](https://github.com/ravdeepsingh200/Cybersecurity/blob/main/Ansible/Filebeat_playbook.yml.txt)
 
 This document contains the following details:
 - Description of the Topologu
